@@ -122,7 +122,7 @@ We built this so every woman can feel **protected, confident, and powerful** any
 
 | Name       | Role                  | Contribution               |
 | ---------- | --------------------- | -------------------------- |
-| You + Team | Dev + UX + Innovation | Everything amazing here 🚀 |
+|  SheGuard  | Dev + UX + Innovation | Everything amazing here 🚀 |
 
 (Add members as needed)
 
